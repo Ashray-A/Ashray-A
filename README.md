@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋!
-My name is Ashray and I'm a Student Developer, from Bengaluru, India.</h2>
+<h1 align="left">Hi 👋!</h1>
+<h2 align="left">My name is Ashray and I'm a Student Developer, from Bengaluru, India.</h2>
 
 ###
 
