@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! <br> My name is Ashray and I'm a Student Developer, from Bengaluru, India.</h1>
+<h1 align="left">Hi!👋 <br> My name is Ashray and I'm a Student Developer, from Bengaluru, India.</h1>
 
 ###
 
